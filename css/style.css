@@ -61,6 +61,7 @@ a:hover {
 	background-image:      -o-linear-gradient(top, #FFF, #F5F5F5);
 	background-image: -webkit-linear-gradient(top, #FFF, #F5F5F5);
 	background-image:         linear-gradient(top, #FFF, #F5F5F5);
+	border-bottom: 1px solid #DFDFDF;
 }
 
 .doc-head-content {
