@@ -78,6 +78,16 @@ h3 {
 	padding: 5px;
 }
 
+.codeblock .c,
+.codeblock .c1 { color: #998; }
+
 .codeblock .nt { color: #000080; }
+
 .codeblock .na { color: #008080; }
-.codeblock .s { color: #D14; }
+
+.codeblock .s,
+.codeblock .s1 { color: #D14; }
+
+.codeblock .k,
+.codeblock .kd,
+.codeblock .o  { font-weight: bold; }
