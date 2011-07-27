@@ -39,7 +39,6 @@ h3 {
 .doc-body-content,
 .doc-foot-content {
 	margin: 0 auto;
-	padding: 0 25px;
 	width: 860px;
 }
 
@@ -53,12 +52,16 @@ h3 {
 	background-image:         linear-gradient(top, #FFF, #F5F5F5);
 }
 
+.doc-head-content {
+	padding: 10px 25px 35px;
+}
+
 .doc-body-content {
 	background: #FFF;
 	border-radius: 1em;
 	box-shadow: 0 0 4px #F5F5F5;
 	padding-bottom: 20px;
-	padding-top: 20px;
+	padding: 20px 25px;
 	position: relative;
 	top: -2em;
 }
