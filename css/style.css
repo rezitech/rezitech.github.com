@@ -75,7 +75,7 @@ h3 {
 	font: 75% 'Bitstream Vera Sans Mono', 'Courier', monospace;
 	margin: 1em 0;
 	overflow: auto;
-	padding: 5px;
+	padding: 0.5em 0.75em;
 }
 
 .codeblock .c,
