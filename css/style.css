@@ -66,6 +66,10 @@ h3 {
 	top: -2em;
 }
 
+.doc-foot-content {
+	padding: 0 0 1em;
+}
+
 .codeblock pre {
 	background: #F5F5F5;
 	border: 1px solid #DDD;
