@@ -1,0 +1,59 @@
+body {
+	font: 1em/1.4 Calibri, sans-serif
+}
+
+h1 {
+	font-size: 2.5em;
+}
+
+h2 {
+	font-size: 1.75em;
+}
+
+h3 {
+	font-size: 1.5em;
+}
+
+.doc-body h1,
+.doc-body h2,
+.doc-body h3,
+.doc-body h4,
+.doc-body h5,
+.doc-body h6,
+.doc-body ul,
+.doc-body p {
+	margin: 0 0 0.5em;
+}
+
+.doc-head-content,
+.doc-body-content,
+.doc-foot-content {
+	margin: 0 auto;
+	padding: 0 25px;
+	width: 860px;
+}
+
+.doc-head {
+	background: #F5F5F5;
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFF), color-stop(100%, #F5F5F5));
+	background-image:    -moz-linear-gradient(top, #FFF, #F5F5F5);
+	background-image:     -ms-linear-gradient(top, #FFF, #F5F5F5);
+	background-image:      -o-linear-gradient(top, #FFF, #F5F5F5);
+	background-image: -webkit-linear-gradient(top, #FFF, #F5F5F5);
+	background-image:         linear-gradient(top, #FFF, #F5F5F5);
+}
+
+.doc-head h1 {
+	margin: 0;
+	padding: 0.25em 0 1em;
+}
+
+.doc-body-content {
+	background: #FFF;
+	border-radius: 1em;
+	box-shadow: 0 0 4px #F5F5F5;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	position: relative;
+	top: -2em;
+}
